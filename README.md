@@ -1,2 +1,11 @@
-# portfolio
-Welcome to my portfolio repository! This is where I showcase my projects, skills, and experience as a FullStack Web Developer. Built using popular technologies, my portfolio demonstrates my expertise in web development. Feel free to explore, collaborate, or provide feedback. Visit my portfolio for more details.
+
+---
+
+## Welcome to My Portfolio Repository!
+
+This repository serves as a showcase of my projects, skills, and experience as a FullStack Web Developer. Utilizing popular technologies, my portfolio demonstrates proficiency in web development. Feel free to explore, collaborate, or provide feedback.
+
+### Portfolio Website
+Visit [https://moizali4444.github.io/portfolio/](#) for more details and to explore my work firsthand.
+
+--- 
